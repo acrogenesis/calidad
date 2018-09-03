@@ -1,0 +1,11 @@
+PARTES BASE:
+FileManager: T=27, I=4 B=32, D=8, M=4, A=3
+LineCounter: T=29, I=2 B=10, D=8, M=0, A=27
+Main: T=48, I=4 B=32, D=13, M=4, A=29
+--------------------------------------------
+PARTES NUEVAS:
+ClassManager: T=33, I=5 
+--------------------------------------------
+PARTES REUSADAS:
+--------------------------------------------
+Total de LDC=140

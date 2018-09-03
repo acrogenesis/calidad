@@ -1,0 +1,10 @@
+PARTES BASE:
+Main: T=13, I=3 B=48, D=37, M=3, A=2
+FileManager: T=36, I=4 B=27, D=6, M=4, A=15
+--------------------------------------------
+PARTES NUEVAS:
+MathLinearRegression: T=40, I=8
+--------------------------------------------
+PARTES REUSADAS:
+--------------------------------------------
+Total de LDC=91
